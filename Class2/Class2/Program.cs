@@ -82,7 +82,7 @@ namespace grade
                 Console.Write("*");
                 count++;
             }
-            Console.WriteLine($"({ F})");
+            Console.WriteLine($"({F})");
 
 
 
